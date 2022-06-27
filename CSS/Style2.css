@@ -72,7 +72,7 @@ main{
 
 footer{
 
-    background-color: cadetblue;
+    background:linear-gradient(to top,  blue,red);
     border-radius: 20px;
     padding: 10px;
 
